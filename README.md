@@ -60,7 +60,7 @@ This project simulates a real-world retail business environment where transactio
 ---
 
 ##  Data Model 
-![Data Model](https://raw.githubusercontent.com/lokesh-u-2004/Retail-Store-Data-Warehouse-Analytics-Project/main/images/Data%20Model.png)
+![Data Model](powerbi/Data%20Model.png)
 
 ---
 ## 📊 Business KPIs & Insights
@@ -88,10 +88,10 @@ This warehouse answers key business questions:
 
 📌 File: `powerbi/Retail_Sales_Analytics.pbix`
 ### Home Page
-![Dashboard Homepage](https://raw.githubusercontent.com/lokesh-u-2004/Retail-Store-Data-Warehouse-Analytics-Project/main/images/Homepage.png)
+![Dashboard Homepage](powerbi/Homepage.png)
 
 ### Product and Cateogry Page
-![Product Insights](https://raw.githubusercontent.com/lokesh-u-2004/Retail-Store-Data-Warehouse-Analytics-Project/main/images/Category.png)
+![Product Insights](powerbi/Category.png)
 
 **Currently doing** Customer and Store Analysis
 ---
